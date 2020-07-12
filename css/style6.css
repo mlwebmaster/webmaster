@@ -7,7 +7,6 @@
 }
 .view-sixth .mask {
    background-color: rgba(225,225,225,0.5);
-   //background-color: rgba(146,96,91,0.5);
    -ms-filter: "progid: DXImageTransform.Microsoft.Alpha(Opacity=0)";
    filter: alpha(opacity=0);
    opacity: 0;
