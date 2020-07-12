@@ -50,7 +50,6 @@ body {
 	justify-content: space-between;
 	align-items: center;
 	padding-top: 40px;
-	//border-top: 5px solid #76c38f;
 }
 
 .navbar__logo {
@@ -62,7 +61,6 @@ body {
 	font-size: 20px;
 	font-weight: bold;
 	letter-spacing: 3px;
-	//text-transform: uppercase;
 }
 
 .logo__subtitle {
